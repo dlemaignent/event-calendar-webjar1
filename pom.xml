@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.webjars</groupId>
     <artifactId>event-calendar-build</artifactId>
-    <version>1.0.0</version>
+    <version>3.6.2</version>
     <packaging>jar</packaging>
     <name>Event Calendar Build - Compiled</name>
     <description>Compiled version of Event Calendar Build for WebJars</description>
