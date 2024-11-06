@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.webjars</groupId>
+    <artifactId>event-calendar-build</artifactId>
+    <version>1.0.0</version>
+    <packaging>jar</packaging>
+    <name>Event Calendar Build - Compiled</name>
+    <description>Compiled version of Event Calendar Build for WebJars</description>
+    <url>https://github.com/dlemaignent/event-calendar-compiled</url>
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+        </license>
+    </licenses>
+</project>
